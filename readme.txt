@@ -1,0 +1,24 @@
+
+## browser-harness 
+- https://github.com/browser-use/browser-harness/tree/main
+- Browser Harness | Self-healing harness that enables LLMs to complete any task.
+
+## Open Cowork 
+- https://github.com/OpenCoworkAI/open-cowork
+- Open-source AI agent desktop app for Windows & macOS.
+ One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.
+ 
+
+## ppt-master 
+- https://github.com/hugohe3/ppt-master
+- AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images 
+- 生成的是原生可编辑的 ppt  
+- 把他放open cowork 的 skills 试试看效果 
+
+
+## graphify
+- https://github.com/safishamsi/graphify/tree/v6
+- AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). 
+ Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into 
+a queryable knowledge graph. App code + database schema + infrastructure in one graph.
+
