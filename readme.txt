@@ -22,3 +22,6 @@
  Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into 
 a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
+## openai-whisper
+- https://github.com/openai/whisper
+- 语音识别，我拿来转文字稿了，李继刚的采访音频文件，转成了文字稿。 
