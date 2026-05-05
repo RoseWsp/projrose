@@ -25,3 +25,12 @@ a queryable knowledge graph. App code + database schema + infrastructure in one 
 ## openai-whisper
 - https://github.com/openai/whisper
 - 语音识别，我拿来转文字稿了，李继刚的采访音频文件，转成了文字稿。 
+
+## slavingia-skills 
+- https://github.com/slavingia/skills 
+- 一人公司的 skills ,改编自 改编自 Sahil Lavingia 的《极简主义企业家》
+
+## gumroad
+- https://github.com/antiwork/gumroad
+-  Gumroad 是一个电子商务平台，创作者可以通过它直接向消费​​者销售产品。此代码库包含 Gumroad Web 应用程序的源代码。
+
