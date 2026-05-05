@@ -34,3 +34,6 @@ a queryable knowledge graph. App code + database schema + infrastructure in one 
 - https://github.com/antiwork/gumroad
 -  Gumroad 是一个电子商务平台，创作者可以通过它直接向消费​​者销售产品。此代码库包含 Gumroad Web 应用程序的源代码。
 
+## addyosmani/agent-skills
+- https://github.com/addyosmani/agent-skills
+- harness 脚手架体系很好的补充， 
