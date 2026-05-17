@@ -45,3 +45,10 @@ a queryable knowledge graph. App code + database schema + infrastructure in one 
 Notion、Linear、Stripe、Figma、Vercel 等知名产品
 Airbnb、Spotify、Uber、BMW 等品牌官网
 Cursor、Raycast、Warp、Expo 等开发者工具
+
+如何使用？
+将 DESIGN.md 拖入项目根目录，告诉你的 AI 编码助手：
+
+"用这个设计系统，帮我做一个 Notion 风格的导航栏"
+
+即可生成像素级还原的设计！
