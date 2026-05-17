@@ -37,3 +37,11 @@ a queryable knowledge graph. App code + database schema + infrastructure in one 
 ## addyosmani/agent-skills
 - https://github.com/addyosmani/agent-skills
 - harness 脚手架体系很好的补充， 
+
+## awesome-design-md
+- https://github.com/VoltAgent/awesome-design-md
+- 本仓库收集了 55+ 个热门网站/产品的 DESIGN.md 文件，涵盖：
+
+Notion、Linear、Stripe、Figma、Vercel 等知名产品
+Airbnb、Spotify、Uber、BMW 等品牌官网
+Cursor、Raycast、Warp、Expo 等开发者工具
