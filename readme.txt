@@ -52,3 +52,33 @@ Cursor、Raycast、Warp、Expo 等开发者工具
 "用这个设计系统，帮我做一个 Notion 风格的导航栏"
 
 即可生成像素级还原的设计！
+
+
+
+
+## claude-code  
+
+分析claude code源代码第一步，先跑起来。这次泄漏的代码只是source map还原后的结果，缺少很多脚手架和私有package。本来我打算自己搞一下，结果发现已经有好心人搞定了。
+
+github.com/claude-code-best/claude-code  
+用之前先升级bun到v1.3.11
+✅bun upgrade （❌bun update） 
+
+
+## claudecodeui
+https://github.com/siteboon/claudecodeui
+
+
+##  pi-mono
+https://github.com/earendil-works/pi   pi-mono 项目 
+
+## learn-claude-code
+https://github.com/shareAI-lab/learn-claude-code
+Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to 1
+
+
+## ralph-wiggum
+https://github.com/ghuntley/how-to-ralph-wiggum
+
+
+https://github.com/mikeyobrien/ralph-orchestrator.git 
