@@ -1,5 +1,5 @@
 
-## browser-harness 
+## browser-harness   浏览器自动化控制工具
 - https://github.com/browser-use/browser-harness/tree/main
 - Browser Harness | Self-healing harness that enables LLMs to complete any task.
 
@@ -86,3 +86,11 @@ https://github.com/mikeyobrien/ralph-orchestrator.git
 ## claude-tap 
 https://github.com/liaohch3/claude-tap 
 claude code 抓包工具
+
+## code-cc  
+协议转换器，为codex 提供 response 格式化的 api 
+https://github.com/RoseWsp/codex_cc-0.1.0
+
+## pi-web
+https://github.com/agegr/pi-web
+
