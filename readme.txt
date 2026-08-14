@@ -94,3 +94,10 @@ https://github.com/RoseWsp/codex_cc-0.1.0
 ## pi-web
 https://github.com/agegr/pi-web
 
+## web-access 
+https://github.com/eze-is/web-access
+给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
+
+
+
+
