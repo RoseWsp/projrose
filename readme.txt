@@ -99,5 +99,8 @@ https://github.com/eze-is/web-access
 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治
 
 
+## https://github.com/JimLiu/baoyu-design  
+baoyu-design 把 Claude Design（claude.ai/design 背后的设计引擎）打包成一个可移植的 Agent Skill（技能）
+
 
 
