@@ -103,4 +103,11 @@ https://github.com/eze-is/web-access
 baoyu-design 把 Claude Design（claude.ai/design 背后的设计引擎）打包成一个可移植的 Agent Skill（技能）
 
 
+## https://github.com/vercel/ai  vercel ai sdk  
+Universal AI layer for building frameworks and agents
+A unified TypeScript SDK for building AI apps with modern streaming, fallbacks, and multi-model support—powered by Vercel
+
+
+
+
 
