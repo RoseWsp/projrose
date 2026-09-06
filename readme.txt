@@ -109,5 +109,7 @@ A unified TypeScript SDK for building AI apps with modern streaming, fallbacks, 
 
 
 
+## https://github.com/OpenCoworkAI/open-codesign 
+Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first
 
 
